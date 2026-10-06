@@ -6,7 +6,7 @@ This project is a terminal-based Space Invaders clone using **Pygame**. It intro
 
 ## What’s Provided
 
-A partially working version of a Space Invaders game with:
+A partialy working version of a Space Invaders game with:
 
 - A player-controlled ship that moves and shoots
 - A grid of enemies that marches side to side and drops down at the edges
